@@ -1,0 +1,15 @@
+{
+	"compilerOptions": {
+		"baseUrl": "./",
+		"target": "ES5",
+		"module": "ES6",
+		"moduleResolution": "node",
+		"strict": true,
+		"esModuleInterop": true,
+		"skipLibCheck": true,
+		"forceConsistentCasingInFileNames": false,
+		"outDir": "./dist"
+	},
+	"include": ["src/**/*", "jest.config.js"],
+	"exclude": ["node_modules", "test"]
+}
