@@ -65,9 +65,10 @@ To make the app testable and extendable, the first thing I am looking for is dec
 
      
 # Step to run build file 
-Source Code:
+## Source Code:
 https://github.com/tliang03/hulu_assignment_jasmine.git
-Live Demo:
+
+## Live Demo:
 https://tliang03.github.io/hulu_assignment_jasmine/
   
 # Step to run from local
