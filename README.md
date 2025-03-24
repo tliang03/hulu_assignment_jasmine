@@ -18,6 +18,8 @@ To make the app testable and extendable, the first thing I am looking for is dec
 
 ### Component Structure
   * Main Container
+    * Settings Wrapper
+      * Theme Switch
     * Collection Wrapper
       * Collection Header
       * Scrollable Wrapper
